@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dwaynerice]]></title>
-        <description><![CDATA[dwaynerice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dwayne Rice]]></title>
+        <description><![CDATA[Dwayne Rice]]></description>
+        <link>https://thegrid.ai/dwaynerice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 13:53:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 13:58:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dwaynerice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined41404e4f-c5ba-40a4-98fa-83a54fccf9b3/index.html</link>
+            <description><![CDATA[<p>My name is Dwayne. I live in Los Angeles, but grew up in Texas and have lived in NYC.</p>]]></description>
+            <link>https://thegrid.ai/dwaynerice/41404e4f-c5ba-40a4-98fa-83a54fccf9b3/index.html</link>
             <guid isPermaLink="false">41404e4f-c5ba-40a4-98fa-83a54fccf9b3</guid>
-            <pubDate>Wed, 16 Mar 2016 13:53:08 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 13:58:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
