@@ -1,7 +1,7 @@
 name: dwaynerice
 favicon: null
-layout_spectrum: 0.29862
-typography_spectrum: 0.14707
+layout_spectrum: 0.41744
+typography_spectrum: 0.16333
 title: Dwayne Rice
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6342267044819891
-  lightness: 0.9574047075584531
-  saturation: 0.050697332015261054
-  rhythmicContrast: 0.1986502418294549
+  brandStrength: 0.5625
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
