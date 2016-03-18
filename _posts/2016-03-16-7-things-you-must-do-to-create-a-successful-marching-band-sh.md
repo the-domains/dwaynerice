@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Every year, as marching season approaches, you struggle to come up with a marching band show concept that will help you attain your program goals, motivate your students, entertain your audiences, and impress your judges.'
-datePublished: '2016-03-18T22:51:44.451Z'
-dateModified: '2016-03-18T22:51:32.975Z'
+datePublished: '2016-03-18T23:06:34.679Z'
+dateModified: '2016-03-18T23:06:23.601Z'
 title: 7 Things you must do to create a successful marching band show
 author: []
 sourcePath: _posts/2016-03-16-7-things-you-must-do-to-create-a-successful-marching-band-sh.md
@@ -22,6 +22,8 @@ url: 7-things-you-must-do-to-create-a-successful-marching-band-sh/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72821049-8163-4259-8c13-3a482708ab7e.jpg)
+
 # 7 Things you must do to create a successful marching band show
 
 Every year, as marching season approaches, you struggle to come up with a marching band show concept that will help you attain your program goals, motivate your students, entertain your audiences, and impress your judges.
