@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Every year, as marching season approaches, you struggle to come up with a marching band show concept that will help you attain your program goals, motivate your students, entertain your audiences, and impress your judges.'
-datePublished: '2016-03-16T14:01:08.027Z'
-dateModified: '2016-03-16T14:00:51.320Z'
+datePublished: '2016-03-18T22:50:41.642Z'
+dateModified: '2016-03-18T22:50:37.937Z'
 title: 7 Things you must do to create a successful marching band show
 author: []
+sourcePath: _posts/2016-03-16-7-things-you-must-do-to-create-a-successful-marching-band-sh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-7-things-you-must-do-to-create-a-successful-marching-band-sh.md
-published: true
 url: 7-things-you-must-do-to-create-a-successful-marching-band-sh/index.html
 _type: Article
 
@@ -143,5 +143,7 @@ Careful planning will ensure that none of the design stands in the way of your s
 **You can prevent unexpected and unnecessary costs by anticipating problems and reviewing segments of the show before they are finalized.**
 
 By streamlining this process and assembling a team of "A" players, you can take much of the stress out of designing the show, and set your group up for its most successful marching band season yet.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9290c417-5a87-45d4-b364-cbabfa02f3c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa36daf-fefa-4b98-b972-b01491cdb89c.jpg)
 
 [0]: http://en.wikipedia.org/wiki/Zone_of_proximal_development "Zone of proximal development"
