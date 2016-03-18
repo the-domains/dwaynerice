@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Music composition is to music what story writing\_is to literature, or painting is\_to art. \_It is the sharing of a story or idea, no matter how abstract, between composer, performers, and audience."
-datePublished: '2016-03-18T23:06:45.875Z'
-dateModified: '2016-03-18T23:04:57.177Z'
+datePublished: '2016-03-18T23:20:16.618Z'
+dateModified: '2016-03-18T23:19:37.041Z'
 title: Every musician should compose. 10 Steps to masterpiece.
 author: []
 sourcePath: _posts/2016-03-16-every-musician-should-compose-10-steps-to-masterpiece.md
