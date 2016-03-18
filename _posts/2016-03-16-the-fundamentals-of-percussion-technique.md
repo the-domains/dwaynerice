@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "“Mother Nature and Gray’s Anatomy are the forces influencing playing.”–\_Leigh Howard Stevens"
-datePublished: '2016-03-16T14:03:18.535Z'
-dateModified: '2016-03-16T14:03:10.808Z'
+datePublished: '2016-03-18T22:41:14.251Z'
+dateModified: '2016-03-18T22:41:08.747Z'
 title: The Fundamentals of Percussion Technique
 author: []
+sourcePath: _posts/2016-03-16-the-fundamentals-of-percussion-technique.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-the-fundamentals-of-percussion-technique.md
-published: true
 url: the-fundamentals-of-percussion-technique/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b6af860-fd1a-4524-a908-8ccb8d94e04f.jpg)
+
 # The Fundamentals of Percussion Technique
 
 "_Mother Nature and Gray's Anatomy are the forces influencing playing_."  
