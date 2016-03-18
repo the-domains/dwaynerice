@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Music composition is to music what story writing\_is to literature, or painting is\_to art. \_It is the sharing of a story or idea, no matter how abstract, between composer, performers, and audience."
-datePublished: '2016-03-16T14:04:12.219Z'
-dateModified: '2016-03-16T14:04:10.626Z'
+datePublished: '2016-03-18T22:49:37.629Z'
+dateModified: '2016-03-18T22:49:27.986Z'
 title: Every musician should compose. 10 Steps to masterpiece.
 author: []
+sourcePath: _posts/2016-03-16-every-musician-should-compose-10-steps-to-masterpiece.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-every-musician-should-compose-10-steps-to-masterpiece.md
-published: true
 url: every-musician-should-compose-10-steps-to-masterpiece/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/589ff598-1326-4da2-b591-ff4014adf0f7.jpg)
+
 # Every musician should compose. 10 Steps to masterpiece.
 
 Music composition is to music what story writing is to literature, or painting is to art.  It is the sharing of a story or idea, no matter how abstract, between composer, performers, and audience.
