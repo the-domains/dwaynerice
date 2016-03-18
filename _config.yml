@@ -1,7 +1,7 @@
 name: dwaynerice
 favicon: null
-layout_spectrum: 0.89525
-typography_spectrum: 0.56983
+layout_spectrum: 0.36335
+typography_spectrum: 0.65613
 title: Dwayne Rice
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#1f2e2a'
-    - '#feffff'
-    - '#798361'
-    - '#b2b085'
-  brandStrength: 0.375
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#fffffd'
+    - '#0d0d10'
+    - '#5f5763'
+    - '#aa9980'
+    - '#6b2e29'
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
