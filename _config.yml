@@ -1,8 +1,34 @@
-name: dwaynerice
-favicon: null
-layout_spectrum: 0.50187
 typography_spectrum: 0.48686
-title: Dwayne Rice
+color:
+  brandColors:
+    - '#13467e'
+    - '#c3cdd8'
+    - '#a5afba'
+    - '#4579a5'
+    - '#5f92b8'
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50187
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: dwaynerice
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    id: 41404e4f-c5ba-40a4-98fa-83a54fccf9b3
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#13467e'
-    - '#c3cdd8'
-    - '#a5afba'
-    - '#4579a5'
-    - '#5f92b8'
-  brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.75
+title: Dwayne Rice
 purpose: []
